@@ -1,0 +1,16 @@
+.d1{
+    display: flex;
+    justify-content:space-between;
+  
+    
+  }
+  .d2{
+    display: flex;
+    justify-content:space-between;
+  }
+  img{
+    width: 400px;
+    height: 300 px;
+    border: solid 3px;
+    border-radius: 5px ;
+  }
